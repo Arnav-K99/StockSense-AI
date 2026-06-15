@@ -1,4 +1,5 @@
-# 📈 Multi-Step Stock Market Forecasting — ANN vs RNN
+# 📈 StockSense AI
+A Multi-Step Stock Market Forecasting — ANN vs RNN
 
 A deep learning project that compares **Artificial Neural Network (ANN)** and **Recurrent Neural Network (RNN)** for multi-step stock price prediction, with an interactive Streamlit dashboard.
 
